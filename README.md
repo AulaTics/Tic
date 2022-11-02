@@ -1,3 +1,3 @@
 # Tic
 
-Repositorio de prueba
+Repositorio de prueba: https://aulatics.github.io/Tic/
